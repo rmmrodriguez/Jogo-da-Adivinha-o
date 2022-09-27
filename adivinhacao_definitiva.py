@@ -6,7 +6,7 @@ def jogar():
 
         print("Bem vindo ao jogo de Adivinhação!")
         n = rd.randrange(1, 101)
-        print(n)
+        #print(n)
         print('Qual o nível de dificuldade?')
         print('(1) Fácil; (2) Médio; (3) Difícil')
         x = True
